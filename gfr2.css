@@ -56,7 +56,7 @@
 .github-fork-ribbon:after {
     content: attr(data-ribbon);
     color: #fff;
-    font: 1em "Poppins", Helvetica, Arial, sans-serif;
+    font: 600 1em "Poppins", Helvetica, Arial, sans-serif;
     line-height: 1.54em;
     text-decoration: none;
     text-align: center;

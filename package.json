@@ -20,13 +20,5 @@
     "bugs": {
         "url": "https://github.com/rivercory/gfr2/issues"
     },
-    "homepage": "https://gfr2.pages.dev",
-    "autoupdate": {
-        "source": "git",
-        "target": "git://github.com/rivercory/gfr2.git",
-        "basePath": "",
-        "files": [
-            "gfr2.css"
-        ]
-    }
+    "homepage": "https://gfr2.pages.dev"
 }
