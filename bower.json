@@ -2,9 +2,7 @@
   "name": "GFR2",
   "version": "1.0.0",
   "homepage": "https:/rivercory.github.io/gfr2",
-  "authors": [
-    "Hyeonho Kang"
-  ],
+  "author": "Hyeonho Kang",
   "description": "\"Fork me on GitHub\" CSS ribbon",
   "main": [
     "gfr2.css"
