@@ -1,13 +1,13 @@
 {
-  "name": "github-fork-ribbon-css",
-  "version": "0.2.3",
-  "homepage": "https://simonwhitaker.github.io/github-fork-ribbon-css/",
+  "name": "GFR2",
+  "version": "1.0.0",
+  "homepage": "https:/rivercory.github.io/gfr2",
   "authors": [
-    "Simon Whitaker"
+    "Hyeonho Kang"
   ],
   "description": "\"Fork me on GitHub\" CSS ribbon",
   "main": [
-    "gh-fork-ribbon.css"
+    "gfr2.css"
   ],
   "keywords": [
     "css",
