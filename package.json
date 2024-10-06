@@ -20,7 +20,7 @@
     "bugs": {
         "url": "https://github.com/rivercory/gfr2/issues"
     },
-    "homepage": "http://rivercory.github.io/gfr2",
+    "homepage": "https://gfr2.pages.dev",
     "autoupdate": {
         "source": "git",
         "target": "git://github.com/rivercory/gfr2.git",
