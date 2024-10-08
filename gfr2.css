@@ -3,8 +3,6 @@
     https://github.com/rivercory/gfr2
 */
 
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
-
 .github-fork-ribbon {
     width: 12.1em;
     height: 12.1em;
@@ -56,7 +54,7 @@
 .github-fork-ribbon:after {
     content: attr(data-ribbon);
     color: #fff;
-    font: 600 1em "Poppins", Helvetica, Arial, sans-serif;
+    font: 600 1em Arial, Helvetica, Arial, sans-serif;
     line-height: 1.54em;
     text-decoration: none;
     text-align: center;
