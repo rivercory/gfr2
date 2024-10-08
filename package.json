@@ -1,6 +1,6 @@
 {
     "name": "gfr2",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "\"Fork me on GitHub\" CSS ribbon",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
